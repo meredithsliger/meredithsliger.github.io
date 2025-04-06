@@ -1,8 +1,3 @@
----
-title: Meredith Sliger – Portfolio
-layout: page
----
-
 # Welcome!
 
 I'm Meredith, and this is my data portfolio showcasing projects I've completed using:
