@@ -4,3 +4,5 @@ plugins:
 title: Meredith Sliger: Portfolio
 description: A showcase of my projects in R, Python, SQL, Tableau, and more.
 show_downloads: false
+
+markdown: kramdown
