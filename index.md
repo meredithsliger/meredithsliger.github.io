@@ -1,6 +1,6 @@
 ---
 title: Meredith Sliger – Portfolio
-layout: default
+layout: page
 ---
 
 # Welcome!
