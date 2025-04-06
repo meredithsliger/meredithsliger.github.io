@@ -1,5 +1,3 @@
-# I'm Meredith, and this is my data science & analytics portfolio showcasing projects I've completed using:
-
 - 🐍 Python
 - 📊 Tableau
 - 📈 R
