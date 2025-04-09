@@ -53,18 +53,18 @@ html {
  * out above content in mobile and later moves to the side with wider viewports.
  */
 
+--brand-color: #2a9d8f;
 .sidebar {
-  text-align: center;
-  padding: 2rem 1rem;
+  background-color: #2a9d8f;
   color: white;
-  background-color: #4caf50;
 }
 .sidebar a {
   color: white;
 }
 .sidebar a:hover {
-  color: #e8f5e9;
+  color: #d1f2ec;
 }
+
 
 @media (min-width: 48em) {
   .sidebar {
