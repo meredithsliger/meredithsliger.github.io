@@ -1,14 +1,17 @@
-## About Me
+---
+layout: page
+title: Home
+---
 
-- [Resume](./resume.md)
-- [Academics](./academics.md)
-- [Contact Information](./contact.md)
+Welcome to my data science portfolio! You can learn more about me or explore my work below.
 
-## Explore My Work
+## 📂 Site Navigation
 
-- [🐍 Python](./python.md)
-- [📈 R](./r.md)
-- [🗃️ SQL, Teradata, and MongoDB](./sql.md)
-- [📊 Tableau](./tableau.md)
-
-Feel free to click around and check out what I’ve been working on!
+- [Home](index.md)
+- [Academics](academics.md)
+- [Resume](resume.md)
+- [Contact Me](contact.md)
+- [Python Projects](python.md)
+- [R Projects](r.md)
+- [SQL + Databases](sql.md)
+- [Tableau Dashboards](tableau.md)
