@@ -15,7 +15,7 @@ If you’d like to connect, feel free to reach out via the form below or email m
 
 ### 📬 Send a Message
 
-<form action="https://formsubmit.co/meredithsliger@gmail.com" method="POST">
+<form action="https://formsubmit.co/932c25f64a0ed19bb5bab41e2ca48873" method="POST">
   <label for="name">Name:</label><br>
   <input type="text" id="name" name="name" required><br><br>
 
