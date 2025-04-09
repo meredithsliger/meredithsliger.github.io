@@ -3,6 +3,8 @@ layout: default
 title: Resume
 ---
 
+<!--- Trigger rebuild --->
+
 ## 📄 My Resume
 
 You can view or download my resume below:
