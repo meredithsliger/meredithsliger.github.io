@@ -77,11 +77,58 @@ Completes the applied project, integrating modeling, validation, and delivery of
 
 Through this program, I aim to become a well-rounded data science professional equipped to:
 
-- Transform data into strategic insights
-- Design reproducible, scalable analysis pipelines
-- Build predictive and prescriptive models
+- Transform data into strategic insights  
+- Design reproducible, scalable analysis pipelines  
+- Build predictive and prescriptive models  
 - Communicate results effectively to both technical and non-technical audiences
 
 ---
 
-If you'd like to learn more about specific projects or see work samples, feel free to check out my portfolio sections or connect with me directly.
+## Bachelor of Science in Information Science  
+**University of South Carolina**  
+*Graduated: December 2019*  
+*Minor: Integrated Information Technology*
+
+This undergraduate degree combined information science, communication theory, and applied technology to build a strong foundation in data organization, retrieval systems, user-centered design, and IT solutions.
+
+---
+
+### 📘 Academic Highlights
+
+- **Minor in Integrated Information Technology**, focused on database systems, human-computer interaction, and business applications.  
+- Completed a professional **internship in information science**.  
+- Regularly named to the **Dean’s List** and **President’s List** for academic achievement.  
+
+---
+
+### 📚 Relevant Coursework
+
+**Information Science Core**  
+- SLIS 201: Introduction to Information Science  
+- SLIS 301: Information Storage and Retrieval  
+- SLIS 402: Introduction to Management within Information Environments  
+- SLIS 410: Knowledge Management  
+- SLIS 420: Communication and Information Transfer  
+- SLIS 496: Internship in Information Science  
+
+**Technology & Programming**  
+- ITEC 101: Thriving in the Tech Age  
+- ITEC 233: Intro to Computer Hardware & Software  
+- ITEC 264 & 265: Computer Applications in Business I & II  
+- ITEC 362: Web-Based Support Systems  
+- ITEC 370: Database Systems in Info Tech  
+- ITEC 444: Human-Computer Interaction  
+- ITEC 570: Database Management and Administration  
+- CSCE 102 & 204: General Applications Programming; Program Design & Development  
+
+**Communication & Business**  
+- ENGL 463: Business Writing  
+- SPCH 140 & 213: Public Communication; Communicating Moral Issues  
+- MKTG 350: Principles of Marketing  
+- LING 300: Introduction to Language Sciences  
+- JOUR 101: Media and Society  
+- MART 210: Digital Media Arts Fundamentals  
+
+---
+
+If you’d like more details about my academic experiences, projects, or coursework, feel free to connect!
