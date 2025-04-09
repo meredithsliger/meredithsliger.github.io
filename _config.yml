@@ -1,7 +1,29 @@
-remote_theme: pages-themes/modernist@v0.2.0
+remote_theme: poole/hyde
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
+
 title: Meredith Sliger
-show_downloads: false
+description: >
+  Data Science Portfolio | Python • R • SQL • Tableau • MongoDB
+
+# Optional settings for Hyde
+sidebar:
+  - title: About
+    url: /about/
+  - title: Resume
+    url: /resume/
+  - title: Academics
+    url: /academics/
+  - title: Contact
+    url: /contact/
+  - title: Python
+    url: /python/
+  - title: R
+    url: /r/
+  - title: Tableau
+    url: /tableau/
+  - title: SQL, Teradata, MongoDB
+    url: /sql/
 
 markdown: kramdown
