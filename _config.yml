@@ -1,11 +1,13 @@
-remote_theme: pages-themes/architect@v0.2.0
+remote_theme: poole/hyde
 
 plugins:
   - jekyll-remote-theme
 
 title: Meredith Sliger
 description: >
-  Data Science | Python • R • SQL • Tableau
+  Data Science Portfolio | Python • R • SQL • Tableau
 
-show_downloads: false
 markdown: kramdown
+
+# Optional – keeps URLs clean
+permalink: pretty
