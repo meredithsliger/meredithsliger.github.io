@@ -1,15 +1,6 @@
-remote_theme: poole/hyde
-
-plugins:
-  - jekyll-remote-theme
-
-# Triggering rebuild
-
 title: Meredith Sliger
 description: >
   Data Science Portfolio | Python • R • SQL • Tableau
 
 markdown: kramdown
-
-# Optional – keeps URLs clean
 permalink: pretty
