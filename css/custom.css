@@ -4,12 +4,14 @@
 
 .dropdown .submenu {
   position: absolute;
-  left: 0; /* align with parent */
-  top: 100%; /* display directly underneath the R link */
-  background: #2a2a2a; /* match your sidebar background */
+  left: 0;
+  top: 100%;
+  background: #2a2a2a;
   display: flex;
   flex-direction: column;
-  min-width: 180px;
+  max-height: 250px; /* or any size that fits your layout */
+  overflow-y: auto; /* enables vertical scrolling if too tall */
+  width: 200px;
   padding: 0;
   border: 1px solid #444;
   opacity: 0;
@@ -18,6 +20,7 @@
   pointer-events: none;
   z-index: 1000;
 }
+
 
 .dropdown:hover .submenu {
   opacity: 1;
