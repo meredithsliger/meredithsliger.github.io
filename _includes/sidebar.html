@@ -15,7 +15,17 @@
       <a class="sidebar-nav-item{% if page.url == "/resume/" %} active{% endif %}" href="/resume">Resume</a>
       <a class="sidebar-nav-item{% if page.url == "/contact/" %} active{% endif %}" href="/contact">Contact</a>
       <a class="sidebar-nav-item{% if page.url == "/python/" %} active{% endif %}" href="/python">Python</a>
-      <a class="sidebar-nav-item{% if page.url == "/r/" %} active{% endif %}" href="/r">R</a>
+      <div class="sidebar-nav-item dropdown">
+  <a href="/r/">R</a>
+  <div class="submenu">
+    <a href="/r/multiple-linear-regression.html">Multiple Linear Regression</a>
+    <a href="/r/ancova.html">ANCOVA</a>
+    <a href="/r/glm.html">GLM</a>
+    <a href="/r/nonparametric.html">Nonparametric Methods</a>
+    <a href="/r/shrinkage.html">Shrinkage Methods</a>
+  </div>
+</div>
+
       <a class="sidebar-nav-item{% if page.url == "/sql/" %} active{% endif %}" href="/sql">SQL + Databases</a>
       <a class="sidebar-nav-item{% if page.url == "/tableau/" %} active{% endif %}" href="/tableau">Tableau</a>
     </nav>
