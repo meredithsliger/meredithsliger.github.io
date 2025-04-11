@@ -21,6 +21,15 @@
   z-index: 1000;
 }
 
+.submenu::-webkit-scrollbar {
+  width: 6px;
+}
+.submenu::-webkit-scrollbar-thumb {
+  background-color: #555;
+  border-radius: 10px;
+}
+
+
 
 .dropdown:hover .submenu {
   opacity: 1;
