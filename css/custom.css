@@ -1,39 +1,30 @@
+/* === Sidebar Submenu Slide-Out Styles === */
 .dropdown {
   position: relative;
 }
 
 .dropdown .submenu {
   position: absolute;
-  left: 0;
-  top: 100%;
-  background: #2a2a2a;
+  top: 0;
+  left: 100%; /* Slide out to the right of "R" */
+  background: #2a2a2a; /* Matches sidebar background */
   display: flex;
   flex-direction: column;
-  max-height: 250px; /* or any size that fits your layout */
-  overflow-y: auto; /* enables vertical scrolling if too tall */
-  width: 200px;
-  padding: 0;
+  min-width: 180px;
+  max-height: 300px; /* Limits height in case it's too long */
+  overflow-y: auto;
   border: 1px solid #444;
+  box-shadow: 2px 2px 6px rgba(0,0,0,0.2);
   opacity: 0;
-  transform: translateY(-5px);
+  transform: translateX(-10px);
   transition: opacity 0.3s ease, transform 0.3s ease;
   pointer-events: none;
   z-index: 1000;
 }
 
-.submenu::-webkit-scrollbar {
-  width: 6px;
-}
-.submenu::-webkit-scrollbar-thumb {
-  background-color: #555;
-  border-radius: 10px;
-}
-
-
-
 .dropdown:hover .submenu {
   opacity: 1;
-  transform: translateY(0);
+  transform: translateX(0);
   pointer-events: auto;
 }
 
@@ -49,3 +40,11 @@
 .submenu a:hover {
   background-color: #3a3a3a;
 }
+
+/* === Optional Scrollbar Styling === */
+.submenu::-webkit-scrollbar {
+  width: 6px;
+}
+
+.submenu::-webkit-scrollbar-thumb {
+  background-color: #
