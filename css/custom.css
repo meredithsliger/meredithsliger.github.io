@@ -6,7 +6,7 @@
 .dropdown .submenu {
   position: absolute;
   top: 0;
-  left: 100%; /* Slide out to the right of "R" */
+  left: 120px;
   background: #2a2a2a; /* Matches sidebar background */
   display: flex;
   flex-direction: column;
