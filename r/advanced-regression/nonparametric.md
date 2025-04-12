@@ -1,11 +1,16 @@
 ---
 layout: default
-title: Non-parametric Methods
+title: Nonparametric Methods
 ---
 
-## Non-parametric Regression
+# Nonparametric Methods
 
-Including:
-- LOESS and local regression
-- Smoothing splines
-- When to use nonparametric methods
+This lab explores nonparametric regression techniques such as smoothing splines, local regression (loess), and generalized additive models (GAMs).
+
+## 📄 View Full Report
+
+
+<iframe src="/pdfs/DSA8020_RLab6.pdf" width="100%" height="800px" style="border: none;"></iframe>
+
+[📥 Download PDF](/pdfs/DSA8020_RLab6.pdf)
+
