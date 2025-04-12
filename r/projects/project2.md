@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project II: Poisson vs Linear Model
+title: Project II Poisson vs Linear Model
 ---
 
 # Project II: Poisson vs Linear Model
