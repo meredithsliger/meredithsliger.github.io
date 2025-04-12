@@ -10,6 +10,6 @@ This lab explores randomized block designs and two-factor factorial experiments.
 ## 📄 View Full Report
 
 
-<iframe src="/pdfs/DSA8020_RLab8.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<iframe src="/pdfs/DSA8020_RLab8_Sliger_Meredith.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
-[📥 Download PDF](/pdfs/DSA8020_RLab8.pdf)
+[📥 Download PDF](/pdfs/DSA8020_RLab8_Sliger_Meredith.pdf)
