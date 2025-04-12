@@ -10,6 +10,6 @@ This lab covers Completely Randomized Designs (CRD) and the use of ANOVA to comp
 ## 📄 View Full Report
 
 
-<iframe src="/pdfs/DSA8020_RLab7.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<iframe src="/pdfs/DSA8020_RLab7_Sliger_Meredith.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
-[📥 Download PDF](/pdfs/DSA8020_RLab7.pdf)
+[📥 Download PDF](/pdfs/DSA8020_RLab7_Sliger_Meredith.pdf)
