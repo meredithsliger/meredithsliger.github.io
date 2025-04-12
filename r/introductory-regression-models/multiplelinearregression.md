@@ -3,7 +3,7 @@ layout: default
 title: Multiple Linear Regression
 ---
 
-# Multiple Linear Regression
+# Multiple Linear Regression 
 
 These labs explore building and evaluating multiple linear regression models. Real-world datasets including Boston Housing and Body Fat measurements were used to understand predictors, diagnostics, and multicollinearity.
 
