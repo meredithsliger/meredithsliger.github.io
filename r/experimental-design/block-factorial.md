@@ -3,11 +3,13 @@ layout: default
 title: Blocked & Factorial Designs
 ---
 
-## Blocked & Factorial Designs
+# Blocked & Factorial Designs
 
-Topics covered:
+This lab explores randomized block designs and two-factor factorial experiments. The goal is to understand how blocking and interactions affect experimental outcomes.
 
-- Randomized Complete Block Designs (RCBD)
-- Full and fractional factorial designs
-- Interaction effects between factors
-- Efficiency gains from blocking
+## 📄 View Full Report
+
+
+<iframe src="/pdfs/DSA8020_RLab8.pdf" width="100%" height="800px" style="border: none;"></iframe>
+
+[📥 Download PDF](/pdfs/DSA8020_RLab8.pdf)
