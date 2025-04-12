@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project I: Gala & Faculty Salaries
+title: Project I Gala & Faculty Salaries
 ---
 
 # Project I: Gala & Faculty Salaries
