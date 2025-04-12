@@ -1,11 +1,15 @@
 ---
 layout: default
-title: ANCOVA
+title: ANCOVA & Nonlinear Regression
 ---
 
-## ANCOVA (Analysis of Covariance)
+# ANCOVA & Nonlinear Regression
 
-Topics include:
-- Combining categorical and continuous predictors
-- Adjusting for covariates
-- Interpretation of interaction effects
+This lab focuses on Analysis of Covariance (ANCOVA) using faculty salary data. It also introduces nonlinear regression techniques applied to a simulated dataset.
+
+## 📄 View Full Report
+
+
+<iframe src="/pdfs/DSA8020_RLab5.pdf" width="100%" height="800px" style="border: none;"></iframe>
+
+[📥 Download PDF](/pdfs/DSA8020_RLab5.pdf)
