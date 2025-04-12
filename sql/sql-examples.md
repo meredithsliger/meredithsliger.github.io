@@ -8,10 +8,10 @@ description: Query and Join Examples from SQL Assignment 1 & 2 using Teradata Vi
 These examples were written using **Teradata ViewPoint** and the **db_pvfc11_big** database. They demonstrate practical SQL skills including filtering, aggregation, joins, and set operations.
 
 📎 **Download the full assignments and answers**:
-- [SQL Assignment 1 – Question Set](../assets/sql/SQL_Assignment1-canvas.docx)
-- [SQL Assignment 2 – Question Set](../assets/sql/SQL_Assignment2-canvas.docx)
-- [SQL Assignment 1 – Answers](../assets/sql/SQL_Assignment1-Sliger_Meredith.docx)
-- [SQL Assignment 2 – Answers](../assets/sql/SQL_Assignment2-Sliger_Meredith.docx)
+- [SQL Assignment 1 – Question Set](../assets/sql/SQL_Assignment1_canvas.docx)
+- [SQL Assignment 2 – Question Set](../assets/sql/SQL_Assignment2_canvas.docx)
+- [SQL Assignment 1 – Answers](../assets/sql/SQL_Assignment1_Sliger_Meredith.docx)
+- [SQL Assignment 2 – Answers](../assets/sql/SQL_Assignment2_Sliger_Meredith.docx)
 
 ---
 
