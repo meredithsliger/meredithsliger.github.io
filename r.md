@@ -3,51 +3,66 @@ layout: default
 title: R
 ---
 
-## R Projects
+## R Projects & Topics
 
-As part of my graduate coursework in Data Science and Analytics, I've worked extensively in R for statistical modeling, data exploration, and experiment design. This section highlights select projects and topics I've studied — ranging from regression analysis to time series forecasting and spatial statistics.
-
----
-
-### 📊 Regression & Modeling
-
-These projects involved fitting and evaluating various statistical models using real-world data. I focused on model interpretation, diagnostic checking, and comparisons between methods.
-
-- [Multiple Linear Regression](/r/multiple-linear-regression) – Built models to estimate and predict outcomes using continuous and categorical variables
-- [ANCOVA](/r/ancova) – Combined regression and ANOVA to adjust for covariates
-- [GLM](/r/glm) – Applied logistic and Poisson regression for binary and count data
-- [Nonparametric Methods](/r/nonparametric) – Used loess and spline methods where assumptions of linearity were not appropriate
-- [Shrinkage Methods](/r/shrinkage) – Explored regularization (Ridge, Lasso) to improve model performance and interpretability
+As part of my graduate coursework in Data Science and Analytics, I've worked extensively in R for statistical modeling, data exploration, and experimental design. This section highlights select projects and topics — ranging from linear models and model selection to time series forecasting and spatial statistics.
 
 ---
 
-### 🧪 Design of Experiments
+### 📘 Introductory Regression
 
-These assignments focused on structuring and analyzing controlled experiments. I learned how design decisions impact the reliability of results and how to handle complex experimental setups.
+These early projects focus on understanding linear relationships, building predictive models, and performing diagnostics using real-world datasets.
 
-- [Design of Experiments](/r/design-of-experiments) – Core principles like randomization, blocking, and replication
-- [Randomized Designs](/r/randomized-designs) – Simple CRDs with treatment comparisons
-- [Blocked & Factorial Designs](/r/block-factorial) – Multi-factor setups and interaction analysis
-- [Mixed Models & Computer Experiments](/r/mixed-models) – Simulated experiments and hierarchical modeling
+- [Simple Linear Regression](/r/introductory-regression-models/intro-regression) – Used trend data from the Leaning Tower of Pisa to fit and interpret a simple linear model  
+- [Multiple Linear Regression](/r/introductory-regression-models/multiple-regression) – Modeled housing prices and body composition using multiple predictors  
+- [Model Selection & Diagnostics](/r/introductory-regression-models/model-selection) – Applied best subset, AIC, BIC, and residual checks for model refinement
 
 ---
 
-### ⏱️ Time Series Analysis
+### 📈 Advanced Modeling Techniques
 
-These projects involved analyzing patterns in time-dependent data. I worked on identifying trends, modeling seasonality, and generating forecasts.
+This section explores more complex models, including nonlinear regression, nonparametric smoothing, and regularization.
 
-- [Time Series Analysis](/r/time-series) – Explored autocorrelation, lags, and stationarity
-- [ARIMA & Forecasting](/r/arima-models) – Built ARIMA models and validated their predictive accuracy
+- [ANCOVA](/r/advanced-regression/ancova) – Incorporated categorical and continuous variables in a unified framework  
+- [Nonparametric Methods](/r/advanced-regression/nonparametric) – Fitted loess, splines, and GAMs to model nonlinear patterns  
+- [Shrinkage Methods](/r/advanced-regression/shrinkage) – Applied Ridge and Lasso to improve model generalizability
+
+---
+
+### 🧪 Experimental Design
+
+Hands-on labs with designed experiments, covering concepts like randomization, blocking, and factorial structure.
+
+- [Randomized Designs](/r/experimental-design/randomized-designs) – Compared treatment groups using CRD and ANOVA  
+- [Blocked & Factorial Designs](/r/experimental-design/block-factorial) – Investigated interaction effects in multifactor studies
+
+---
+
+### ⏱️ Time Series & Forecasting
+
+Modeled time-dependent data to identify structure and predict future observations.
+
+- [Time Series Analysis](/r/time-series/time-series) – Decomposed trends and estimated ARMA models  
+- [ARIMA & Forecasting](/r/time-series/arima-models) – Performed ARIMA model selection and evaluation
 
 ---
 
 ### 🌍 Spatial Statistics
 
-This section showcases exploratory and model-based analysis of spatially structured data. I applied geostatistical tools to assess spatial patterns and build predictive models.
+Analyzed spatial datasets using exploratory tools and spatial models to understand location-based structure.
 
-- [Spatial Analysis](/r/spatial-analysis) – Measured spatial dependence and structure
-- [Spatial Models](/r/spatial-models) – Applied kriging and Gaussian Process modeling for interpolation
+- [Spatial Analysis](/r/spatial/spatial-analysis) – Investigated spatial autocorrelation and variograms  
+- [Spatial Models](/r/spatial/spatial-models) – Applied kriging and Gaussian processes for prediction
 
 ---
 
-I’ve included summaries on each subpage, with links to code, visuals, and relevant coursework. These projects reflect my evolving ability to apply R to practical analytical challenges across a range of data types.
+### 🧪 Featured Projects
+
+Capstone-style coursework projects integrating regression, model diagnostics, and advanced statistical methods.
+
+- [Project I: Gala & Faculty Salaries](/r/glm-and-projects/project1) – Compared models using model selection, transformations, and GAMs  
+- [Project II: Poisson vs Linear Models](/r/glm-and-projects/project2) – Evaluated GLM vs OLS for count data with species richness
+
+---
+
+Each subpage includes explanations, R code, visualizations, and key takeaways. These projects reflect my growing skillset in applying R to real-world analytical problems across various domains.
