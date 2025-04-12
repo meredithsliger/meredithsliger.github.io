@@ -22,9 +22,9 @@ These labs explore building and evaluating multiple linear regression models. Re
 <details>
 <summary><strong>Lab 2</strong></summary>
 
-<iframe src="/pdfs/DSA8020_RLab3.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<iframe src="/pdfs/DSA8020_RLab3_Sliger_Meredith.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
-[📥 Download PDF](/pdfs/DSA8020_RLab3.pdf)
+[📥 Download PDF](/pdfs/DSA8020_RLab3_Sliger_Meredith.pdf)
 
 </details>
 
