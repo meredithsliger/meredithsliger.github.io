@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Project II: Poisson vs Linear Model
