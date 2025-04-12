@@ -10,7 +10,7 @@ This lab explores nonparametric regression techniques such as smoothing splines,
 ## 📄 View Full Report
 
 
-<iframe src="/pdfs/DSA8020_RLab6.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<iframe src="/pdfs/DSA8020_RLab6_Sliger_Meredith.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
-[📥 Download PDF](/pdfs/DSA8020_RLab6.pdf)
+[📥 Download PDF](/pdfs/DSA8020_RLab6_Sliger_Meredith.pdf)
 
