@@ -24,6 +24,6 @@ This project serves as a practical application of choosing models based on data 
 
 ## 📄 View Full Report
 
-<iframe src="/pdfs/DSA8020_RProject2_Sliger_Meredith.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<iframe src="/pdfs/DSA8020_RProject2_SligerMeredith.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
-[📥 Download PDF](/pdfs/DSA8020_RProject2_Sliger_Meredith.pdf)
+[📥 Download PDF](/pdfs/DSA8020_RProject2_SligerMeredith.pdf)
