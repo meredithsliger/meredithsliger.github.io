@@ -37,7 +37,7 @@ In this Tableau Prep Builder assignment, I combined data from two different sour
 
 ---
 
-### 🖼️ Suggested Additions (coming soon)
+### 🖼️ Coming soon
 - Screenshots of the Tableau Prep Flow  
 - Preview of the aggregated summary table  
 
