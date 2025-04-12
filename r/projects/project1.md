@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Project I: Gala & Faculty Salaries
