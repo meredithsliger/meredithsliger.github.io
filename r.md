@@ -5,7 +5,7 @@ title: R
 
 ## R Projects & Topics
 
-As part of my graduate coursework in Data Science and Analytics, I've worked extensively in R for statistical modeling, data exploration, and experimental design. This section highlights select projects and topics — ranging from linear models and model selection to time series forecasting and spatial statistics.
+As part of my graduate coursework in Data Science and Analytics, I've worked extensively in R for statistical modeling, data exploration, and experimental design. This section highlights select projects and topics — ranging from linear models and model selection to forecasting and spatial statistics.
 
 ---
 
@@ -14,7 +14,7 @@ As part of my graduate coursework in Data Science and Analytics, I've worked ext
 These early projects focus on understanding linear relationships, building predictive models, and performing diagnostics using real-world datasets.
 
 - [Simple Linear Regression](/r/introductory-regression-models/intro-regression) – Used trend data from the Leaning Tower of Pisa to fit and interpret a simple linear model  
-- [Multiple Linear Regression](/r/introductory-regression-models/multiple-regression) – Modeled housing prices and body composition using multiple predictors  
+- [Multiple Linear Regression](/r/introductory-regression-models/multiplelinearregression) – Modeled housing prices and body composition using multiple predictors  
 - [Model Selection & Diagnostics](/r/introductory-regression-models/model-selection) – Applied best subset, AIC, BIC, and residual checks for model refinement
 
 ---
@@ -60,9 +60,9 @@ Analyzed spatial datasets using exploratory tools and spatial models to understa
 
 Capstone-style coursework projects integrating regression, model diagnostics, and advanced statistical methods.
 
-- [Project I: Gala & Faculty Salaries](/r/glm-and-projects/project1) – Compared models using model selection, transformations, and GAMs  
-- [Project II: Poisson vs Linear Models](/r/glm-and-projects/project2) – Evaluated GLM vs OLS for count data with species richness
+- [Project I: Gala & Faculty Salaries](/r/projects/project1) – Explored model selection, transformations, and GAMs across two real-world datasets  
+- [Project II: Poisson vs Linear Models](/r/projects/project2) – Compared GLM and OLS models for count data with emphasis on assumptions and prediction
 
 ---
 
-Each subpage includes explanations, R code, visualizations, and key takeaways. These projects reflect my growing skillset in applying R to real-world analytical problems across various domains.
+Each subpage includes summaries, code, visuals, and key takeaways. These projects reflect my growing skillset in applying R to real-world analytical problems across a variety of domains.
