@@ -10,8 +10,8 @@ This lab focused on selecting the best regression model using techniques like be
 ## 📄 View Full Report
 
 
-<iframe src="/pdfs/DSA8020_RLab4-2.pdf" width="100%" height="800px" style="border: none;"></iframe>
+<iframe src="/pdfs/DSA8020_RLab4_Sliger_Meredith.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
-[📥 Download PDF](/pdfs/DSA8020_RLab4-2.pdf)
+[📥 Download PDF](/pdfs/DSA8020_RLab4_Sliger_Meredith.pdf)
 
 
