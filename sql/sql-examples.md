@@ -11,7 +11,7 @@ These examples were written using **Teradata ViewPoint** and the **db_pvfc11_big
 - [SQL Assignment 1 – Question Set](../assets/sql/SQL_Assignment1-canvas.docx)
 - [SQL Assignment 2 – Question Set](../assets/sql/SQL_Assignment2-canvas.docx)
 - [SQL Assignment 1 – Answers](../assets/sql/SQL_Assignment1-canvas.docx)
-- [SQL Assignment 2 – Answers](../assets/sql/SQL_Assignment2-canvas.docx)- 
+- [SQL Assignment 2 – Answers](../assets/sql/SQL_Assignment2-canvas.docx)
 
 ---
 
