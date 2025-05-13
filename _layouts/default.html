@@ -5,7 +5,9 @@
 
   <body>
 
-    {% include sidebar.html %}
+    {% unless page.hide_sidebar %}
+      {% include sidebar.html %}
+    {% endunless %}
 
     <div class="content container">
       {{ content }}
