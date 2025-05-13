@@ -3,7 +3,7 @@ layout: default
 title: National Parks Attendance Forecasting
 ---
 
-# 🗻 National Parks Attendance Forecasting (Mini Project 1)
+# 🗻 National Parks Attendance Forecasting
 
 ## 📊 One Tiny Question
 > **How has visitation changed in top U.S. national parks since 1990, and what can we expect over the next five years?**
