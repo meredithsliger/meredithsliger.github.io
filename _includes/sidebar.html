@@ -12,59 +12,13 @@
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == '/' or page.url == '/index.html' %} active{% endif %}" href="/">Home</a>
       <a class="sidebar-nav-item{% if page.url == '/academics/' %} active{% endif %}" href="/academics">Academics</a>
-      <a class="sidebar-nav-item{% if page.url == '/resume/' %} active{% endif %}" href="/resume">Resume</a>
       <a class="sidebar-nav-item{% if page.url == '/contact/' %} active{% endif %}" href="/contact">Contact</a>
 
       <div class="sidebar-nav-item dropdown">
-        <a href="/r/">R</a>
+        <a href="/Projects/">Projects</a>
         <div class="submenu">
           <!-- Introductory Regression -->
-          <a href="/r/introductory-regression-models/intro-regression">Simple Linear Regression</a>
-          <a href="/r/introductory-regression-models/multiplelinearregression">Multiple Linear Regression</a>
-          <a href="/r/introductory-regression-models/model-selection">Model Selection & Diagnostics</a>
-
-          <!-- Advanced Regression -->
-          <a href="/r/advanced-regression/ancova">ANCOVA</a>
-          <a href="/r/advanced-regression/nonparametric">Nonparametric Methods</a>
-          <a href="/r/advanced-regression/shrinkage">Shrinkage Methods</a>
-
-          <!-- Experimental Design -->
-          <a href="/r/experimental-design/randomized-designs">Randomized Designs</a>
-          <a href="/r/experimental-design/block-factorial">Blocked & Factorial Designs</a>
-
-          <!-- Time Series -->
-          <a href="/r/time-series/time-series">Time Series Analysis</a>
-          <a href="/r/time-series/arima-models">ARIMA & Forecasting</a>
-
-          <!-- GLM & Projects -->
-          <a href="/r/glm-and-projects/glm">GLM Models</a>
-          <a href="/r/glm-and-projects/project1">Project I: Gala & Salaries</a>
-          <a href="/r/glm-and-projects/project2">Project II: Poisson vs LM</a>
-
-          <!-- Spatial -->
-          <a href="/r/spatial/spatial-analysis">Spatial Analysis</a>
-          <a href="/r/spatial/spatial-models">Spatial Models</a>
-        </div>
-      </div>
-
-      <div class="sidebar-nav-item dropdown">
-        <a href="/sql/">SQL + Databases</a>
-        <div class="submenu">
-          <a href="/sql/data-modeling">Data Modeling</a>
-          <a href="/sql/schema-design">Schema Design</a>
-          <a href="/sql/sql-examples">SQL Examples</a>
-          <a href="/sql/data-warehousing">Data Warehousing</a>
-          <a href="/sql/nosql">NoSQL & Big Data</a>
-        </div>
-      </div>
-
-      <div class="sidebar-nav-item dropdown">
-        <a href="/tableau/">Tableau</a>
-        <div class="submenu">
-          <a href="/tableau/tableau-prep-etl">Tableau Prep (ETL)</a>
-          <a href="/tableau/tableau-dashboards">Tableau Dashboards</a>
-        </div>
-      </div>
+          <a href="/projects/NationalParkAttendance">National Park Attendance</a>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
