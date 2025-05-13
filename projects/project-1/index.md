@@ -51,13 +51,21 @@ title: National Parks Attendance Forecasting
 
 ---
 
-## 📈 Visualization
+## 📈 Key Visualizations
 
-![Observed and Forecasted National Park Attendance](your-forecast-plot.png)
+### 🕰️ Historical Visitation Trends
 
-> Solid lines = observed visitation  
-> Dashed lines = 5-year ARIMA forecast  
-> Blue shading = 95% confidence interval
+A look at how annual visitation changed from 1990 to 2023 for each of the eight selected parks.
+
+![Historic Trends](historic_trends.png)
+
+---
+
+### 🔮 Forecasted Attendance (2024–2028)
+
+This chart combines observed and forecasted attendance for each park using ARIMA models, including 95% confidence intervals for the next 5 years.
+
+![Forecasted Attendance](forecast_combined.png)
 
 ---
 
@@ -67,6 +75,10 @@ title: National Parks Attendance Forecasting
 - **COVID's impact was sharp but short-lived.** Most parks returned to pre-pandemic levels by 2022.
 - **Forecasting is helpful—even with yearly data.** ARIMA was flexible enough to model regional differences without overcomplicating.
 - **Urban vs remote access matters.** Parks near cities tend to recover faster and grow more consistently.
+
+---
+
+📄 [View Full Technical Report (PDF)](miniproject_natl_parks.pdf)
 
 ---
 
