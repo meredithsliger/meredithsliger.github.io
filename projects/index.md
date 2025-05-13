@@ -10,6 +10,3 @@ Welcome to my growing collection of bite-sized data science projects. Each one t
 Explore the full list below:
 
 - [🗻 National Parks Attendance Trends](/projects/NationalParkAttendance/)
-<!-- - [♿ Disability Employment Gap](/projects/disability-employment/)
-- [⏳ Productivity by Work Style](/projects/productivity-trends/)
-- [📉 Inflation and Essential Spending](/projects/inflation-analysis/) -->
