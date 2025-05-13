@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 🚧 Under Construction
+hide_sidebar: true
 ---
 
 # 🚧 Portfolio Under Construction
